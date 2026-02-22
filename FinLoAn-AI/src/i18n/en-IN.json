@@ -1,0 +1,26 @@
+{
+  "appName": "FinLoAn-AI",
+  "welcomeMessage": "Welcome to FinLoAn-AI, your intelligent loan calculator!",
+  "currency": {
+    "label": "Indian Rupee",
+    "symbol": "₹",
+    "code": "INR"
+  },
+  "loan": {
+    "title": "Loan Calculator",
+    "description": "Calculate your loan repayments easily.",
+    "amount": "Loan Amount",
+    "interestRate": "Interest Rate (%)",
+    "loanTerm": "Loan Term (years)",
+    "calculate": "Calculate",
+    "monthlyPayment": "Your Monthly Payment is: "
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy"
+  },
+  "error": {
+    "invalidInput": "Please enter valid values for all fields."
+  }
+}
