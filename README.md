@@ -112,7 +112,7 @@ Database (MySQL / MongoDB)
 - JWT Authentication (if used)
 
 ## 🗄 Database
-- MySQL / MongoDB
+- PostgreSQL
 - Entity/Schema-based modeling
 
 ## 🛠 Tools & Platforms
@@ -267,7 +267,7 @@ Backend:
 - AWS EC2
 
 Database:
-- MySQL Cloud / MongoDB Atlas
+- PostgreSQL
 
 ---
 
